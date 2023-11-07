@@ -1,0 +1,27 @@
+table,
+th,
+td {
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.table2 th,
+.table2 td {
+  text-align: start;
+}
+
+ol.lv1 {
+  list-style-type: decimal;
+}
+
+ol.lv2 {
+  list-style-type: upper-alpha;
+}
+
+ol.lv3 {
+  list-style-type: lower-roman;
+}

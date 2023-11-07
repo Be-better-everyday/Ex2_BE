@@ -1,0 +1,30 @@
+table,
+th,
+td {
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.header-2 th {
+  text-align: start;
+}
+
+tr.total th {
+  text-align: start;
+}
+
+li.lever-1 {
+  list-style-type: upper-roman;
+}
+
+li.lever-2 {
+  list-style-type: upper-latin;
+}
+
+li.lever-3 {
+  list-style-type: lower-roman;
+}
